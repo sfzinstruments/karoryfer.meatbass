@@ -2,6 +2,8 @@ Meatbass is a sample library for Plogue Sforzando version 1.845 or newer. It con
 
 Fifths tuning (CGDA), Thomastik-Infeld Spirocore strings. F.G. Pfretzschner bow, Pops' rosin.
 
+This instrument is open source, and you can do whatever you want with it; however, the XML bank contains a digital signature, and editing the XML bank will break the ability of Plogue Sforzando to load the instrument with the GUI.
+
 To register the Sforzando bank, drag the Meatbass.bank.xml file onto the Sforzando interface. Once registered, the instrument will be available in the Sforzando loading menu and the GUI will work.
 
 The instruments are:
